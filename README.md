@@ -1,2 +1,2 @@
-# chall.5
+local
 I write a few lines for the exercise
